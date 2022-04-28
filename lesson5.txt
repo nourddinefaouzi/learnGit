@@ -1,0 +1,2 @@
+cd name : navigate between directories.
+name.
