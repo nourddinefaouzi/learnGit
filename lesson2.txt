@@ -1,1 +1,2 @@
-touch to create a file.
+touch fileName : create a file.
+fileName.

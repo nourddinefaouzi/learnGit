@@ -1,0 +1,2 @@
+start fileName : open a file.
+fileName.

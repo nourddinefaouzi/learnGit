@@ -1,1 +1,2 @@
-mkdir to create a directory.
+mkdir name : create a directory.
+name!
